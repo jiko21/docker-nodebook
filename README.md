@@ -19,6 +19,7 @@ pyenv 20150719-6-g57d1c9d
 ## Optional
 
 * [make](http://www.gnu.org/software/make/)
+* [Node.js](https://nodejs.org/en/) (for dockerlint)
 
 ## Debian/Ubuntu
 
